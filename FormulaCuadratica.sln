@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCuadratica", "FormulaCuadratica.csproj", "{BA7F01D2-7D94-46DA-81DB-C7B0307C762B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7F01D2-7D94-46DA-81DB-C7B0307C762B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7F01D2-7D94-46DA-81DB-C7B0307C762B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7F01D2-7D94-46DA-81DB-C7B0307C762B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7F01D2-7D94-46DA-81DB-C7B0307C762B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BEBF05D-5D25-4552-AC8F-D6C68ECC1A32}
+	EndGlobalSection
+EndGlobal
