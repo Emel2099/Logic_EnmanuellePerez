@@ -1,0 +1,14 @@
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.exe
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.deps.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.runtimeconfig.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\bin\Debug\netcoreapp3.1\Ejercicio de práctica.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio de práctica\obj\Debug\netcoreapp3.1\Ejercicio de práctica.genruntimeconfig.cache
