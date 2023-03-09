@@ -1,0 +1,14 @@
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.exe
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.deps.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.runtimeconfig.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\bin\Debug\netcoreapp3.1\Salario de 3 empleados.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Salario de 3 empleados\obj\Debug\netcoreapp3.1\Salario de 3 empleados.genruntimeconfig.cache
